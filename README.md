@@ -15,5 +15,10 @@
  My name is Manisha 3rd year electronic and communication engineering student from bharati vidyapeeth college of engineering. i am python Enthusiasm and a web developer . i am familar with HTML,CSS,JAVASCRIPT,PYTHON programing,KOTLIN. I am interested in learning data science .currently i learning python liberaries numpy and pandas.
  
  <h2>connect with me </h2>
- linkdin
- instagram
+ instagram:
+ <a href="https://www.instagram.com/tanishka9134?r=nametag">https://www.instagram.com/tanishka9134?r=nametag</a><br>
+ linkedin
+ <a href="https://www.linkedin.com/in/manisha-visvkrama-2626981a8">https://www.linkedin.com/in/manisha-visvkrama-2626981a8</a><br>
+ Github
+ <a href="https://github.com/M-anisha-coder">https://github.com/M-anisha-coder</a><br>
+ <p> Telegram:@Manishaips<p><br>
